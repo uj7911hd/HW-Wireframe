@@ -40,7 +40,7 @@
         
         section {
             display: grid;
-            grid-template-columns: 110% 100%;
+            grid-template-columns: 120% 90%;
             grid-gap: 0em;
             width: 495px;
         }
@@ -65,6 +65,7 @@
             color: #777;
             text-align: center;
             min-height: 50px;
+            margin-left: 0em;
         }
         
         footer {
